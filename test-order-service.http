@@ -1,0 +1,9 @@
+# Test the order-service
+
+### Place an order
+POST order-service-aga4g6a0g5bjaxew.westus-01.azurewebsites.net/orders
+Content-Type: application/json
+
+{
+  "product": "Cat Food"
+}
